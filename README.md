@@ -1,11 +1,11 @@
 The repository is arranged in two folders.
 
-Phytophthora_trait_framework
+**Phytophthora_trait_framework**
 
 The data and code reproduce the analyses in the main text of Barwell et al. (in prep.) A conceptual trait-based framework for invasion risk assessment of oomycete plant pathogens.
 
 
-Phytophthora_global_impacts
+**Phytophthora_global_impacts**
 
 The data and code reproduce the analyses in the main text of Barwell et al. (in prep.), Trait-based approaches for predicting future global impacts in the genus *Phytophthora*.
 
