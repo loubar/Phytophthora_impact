@@ -1,4 +1,3 @@
-The repository is arranged in two folders.
 
 **Phytophthora_trait_framework**
 
