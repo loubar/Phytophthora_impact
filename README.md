@@ -1,4 +1,13 @@
-The data, code and documentation in this repository reproduce the analyses in the main text of Barwell et al. (in prep.) Evaluating trait-based approaches for predicting future global impacts in the genus Phytophthora.
+The repository is arranged in two folders.
+
+Phytophthora_trait_framework
+
+The data and code reproduce the analyses in the main text of Barwell et al. (in prep.) A conceptual trait-based framework for invasion risk assessment of oomycete plant pathogens.
+
+
+Phytophthora_global_impacts
+
+The data and code reproduce the analyses in the main text of Barwell et al. (in prep.), Trait-based approaches for predicting future global impacts in the genus *Phytophthora*.
 
 The analyses estimate the relationships between traits, phylogenetic position and global impacts in Phytophthora. The approach was designed to be a first step towards developing a trait-based early warning system for pathogens for use in plant health risk assessment.
 
